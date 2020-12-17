@@ -1,0 +1,19 @@
+PEP 512 An array is a special variable
+
+which can hold more than one value at a time.
+
+If you have a list of items (a list of car names, for example), storing the cars in single variables could look like this:
+
+car1 = "Ford"
+car2 = "Volvo"
+car3 = "BMW"
+However, what if you want to loop through the cars and find a specific one? And what if you had not 3 cars, but 300?
+
+The solution is an array! 
+
+ PEP 582 Python Inheritance
+Inheritance allows us to define a class that inherits all the methods and properties from another class.
+
+Parent class is the class being inherited from, also called base class.
+
+Child class is the class that inherits from another class, also called derived class.

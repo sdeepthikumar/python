@@ -1,0 +1,5 @@
+RollNo|Name|Standard|English|Hindi|Science|Maths|EVS
+1|Malu|2|98|98|98|98|98
+2|sanu|2|58|58|58|58|58
+3|deepthi|2|35|28|17|65
+4|Meenu|2|100|100|100|100|100
